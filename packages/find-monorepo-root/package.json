@@ -1,0 +1,15 @@
+{
+  "name": "@diegow/find-monorepo-root",
+  "version": "1.0.0",
+  "description": "Utility to find the absolute path of a monorepo root",
+  "exports": [
+		"./index.js"
+	],
+	"type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "licence": "ISC"
+}
